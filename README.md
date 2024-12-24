@@ -6,6 +6,7 @@ online compiler for c
 1) https://www.programiz.com/c-programming/online-compiler/
 2) https://www.onlinegdb.com/online_c_compiler
 
+======================
 
 C programming is a foundational language in computer science for several compelling reasons. Its low-level nature provides direct access to hardware, making it crucial for systems programming, embedded systems, and operating system development. This hands-on experience with memory management and hardware interaction fosters a deep understanding of how computers work at their core.   
 
