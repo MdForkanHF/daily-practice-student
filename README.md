@@ -12,7 +12,6 @@ C programming is a foundational language in computer science for several compell
 
 Furthermore, C's influence is pervasive across the computing landscape. Many programming languages, including C++, Java, and Python, have borrowed heavily from its syntax and concepts. Learning C helps demystify these languages and strengthens programming fundamentals like pointers, data structures, and memory allocation.   
 
-Furthermore, C's influence is pervasive across the computing landscape. Many programming languages, including C++, Java, and Python, have borrowed heavily from its syntax and concepts. Learning C helps demystify these languages and strengthens programming fundamentals like pointers, data structures, and memory allocation.   
 
 Furthermore, C's influence is pervasive across the computing landscape. Many programming languages, including C++, Java, and Python, have borrowed heavily from its syntax and concepts. Learning C helps demystify these languages and strengthens programming fundamentals like pointers, data structures, and memory allocation.   
 
