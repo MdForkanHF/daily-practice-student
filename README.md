@@ -8,7 +8,9 @@ online compiler for c
 
 ======================
 
-C programming is a foundational language in computer science for several compelling reasons. Its low-level nature provides direct access to hardware, making it crucial for systems programming, embedded systems, and operating system development. This hands-on experience with memory management and hardware interaction fosters a deep understanding of how computers work at their core.   
+C programming is a foundational language in computer science for several compelling reasons. Its low-level nature provides direct access to hardware, making it crucial for systems programming, embedded systems, and operating system development. This hands-on experience with memory management and hardware interaction fosters a deep understanding of how computers work at their core.  
+
+C programming is a foundational language in computer science for several compelling reasons. Its low-level nature provides direct access to hardware, making it crucial for systems programming, embedded systems, and operating system development. This hands-on experience with memory management and hardware interaction fosters a deep understanding of how computers work at their core.  
 
 C programming is a foundational language in computer science for several compelling reasons. Its low-level nature provides direct access to hardware, making it crucial for systems programming, embedded systems, and operating system development. This hands-on experience with memory management and hardware interaction fosters a deep understanding of how computers work at their core.   
 
