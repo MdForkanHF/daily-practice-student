@@ -2,13 +2,14 @@
 
 // Main function starts the program execution
 int main() {
-    int score = 0; // Variable to track user score
+    int score = 0; // Variable to track user  score
     int answer;    // Variable to store user answer
 
     // Display the quiz introduction
     printf("Welcome to the Bangladesh Quiz Application!\n");
     printf("Answer the following questions by choosing the correct option (1/2/3/4).\n\n");
 
+    
     // Question 1
     printf("1. What is the capital of Bangladesh?\n");
     printf("1. Kolkata\n2. Dhaka\n3. Chittagong\n4. Sylhet\n");
