@@ -1,6 +1,7 @@
 #include <stdio.h> // Standard input-output header
 
 // Main function starts the program execution
+
 int main() {
     int score = 0; // Variable to track user  score
     int answer;    // Variable to store user answer
